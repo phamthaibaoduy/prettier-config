@@ -1,0 +1,22 @@
+{
+  "name": "@phamthaibaoduy/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config for my projects",
+  "license": "ISC",
+  "repository": "phamthaibaoduy/prettier-config",
+  "author": {
+    "name": "phamthaibaoduy",
+    "email": "hello@duy.rocks",
+    "url": "https://duy.rocks"
+  },
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.0.5",
+    "prettier-plugin-package": "^1.0.0"
+  },
+  "devDependencies": {},
+  "prettier": "./index.json"
+}
